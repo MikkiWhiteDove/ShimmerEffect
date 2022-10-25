@@ -2,4 +2,4 @@
 
 ---
 
-<img src="https://github.com/MikkiWhiteDove/ShimmerEffect/blob/main/screens/iPhone14.gif" width="150" hedth="300">
+<img src="https://github.com/MikkiWhiteDove/ShimmerEffect/blob/main/screens/iPhone14.gif" width="300" hedth="600">
